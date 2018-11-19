@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "quoi l'espace",
+      "invocationName": "space facts",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
